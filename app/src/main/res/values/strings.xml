@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">KLAD09_CoordinatorLayout</string>
+    <string name="app_name">CoordinatorLayout</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="scrolling_toolbar">Scrolling Toolbar</string>
+    <string name="collapsing_toolbar">Collapsing Toolbar</string>
+    <string name="click_fab">Click FloatingActionButton</string>
 </resources>

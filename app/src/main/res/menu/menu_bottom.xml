@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/scrollingToolbarFragment"
+        android:icon="@drawable/baseline_done_outline_24"
+        android:title="@string/scrolling_toolbar" />
+
+    <item
+        android:id="@+id/collapsingToolbarFragment"
+        android:icon="@drawable/baseline_done_outline_24"
+        android:title="@string/collapsing_toolbar" />
+</menu>
